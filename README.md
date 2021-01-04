@@ -48,5 +48,10 @@ Mock Interview
 	
 q# | title | difficulty | date | time | attempt#
 ---| ----- | ---------- | ---- | ---- | --------
-1  | two sum | easy | 01/04 | | 1
-
+1  | two sum | easy | 01/04 | 0:30 | 1 
+---| ----- | ---------- | ---- | ---- | --------
+121  | best time to buy and sell stock | easy | 01/04 | max | 1
+---| ----- | ---------- | ---- | ---- | --------
+217 | contains duplicate | easy | 01/04 | 0:10 | 1
+---| ----- | ---------- | ---- | ---- | --------
+52 | max subarray | easy | 01/04 | max | 1
