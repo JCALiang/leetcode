@@ -1,26 +1,28 @@
 # leetcode
-<h1>Algo practiceice</h1>
 
-<h3> Target: 2 questions daily exercise </h3>
+### Target
+2 questions daily exercise 
 
-stage1
-Jan/Feb/March
+### Stages
+**Stage1**
+Jan/Feb/March </br>
 https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Questions-to-Save-Your-Time-OaM1orEU
 https://medium.com/@koheiarai94/60-leetcode-questions-to-prepare-for-coding-interview-8abbb6af589e
 
-stage2
-Apr, May
+**Stage2**
+Apr, May </br>
 paid tech companies interview questions
 Google
 Amazon
 Microsoft
 
-stage3
-June
+**Stage3**
+June </br>
 Mock Interview
 
 
-Topics
+### Topics
+
 	- [ ] Array
 	- [ ] LinkedList
 	- [ ]Stack
@@ -42,8 +44,9 @@ Topics
 	
 	
 
+### Progress
 	
 q# | title | difficulty | date | time | attempt#
 ---| ----- | ---------- | ---- | ---- | --------
 1  | two sum | easy | 01/04 | | 1
-  
+
