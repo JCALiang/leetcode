@@ -1,4 +1,7 @@
-
+'''
+    max profit simply keeps track of min_cost and max_profit,
+    since need to buy before sell, so always check for min first
+'''
 
 def maxProfit( prices):
     max_profit = 0

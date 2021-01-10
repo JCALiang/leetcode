@@ -1,4 +1,9 @@
 
+'''
+    2 pointers problem, max area is always determine by the minimum height,
+    so move the less tall pointer until reach the end --> O(n) solution
+'''
+
 
 def maxArea(height):
     left = 0

@@ -1,4 +1,10 @@
 
+'''
+    max product logic as follow:
+        product can either be 0 or +ve or -ve
+        so need to keep track of min and max possible sub_products
+'''
+
 def maxProduct(nums):
     sub_min = sub_max = max_product = nums[0]
     
