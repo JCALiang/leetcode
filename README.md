@@ -23,9 +23,9 @@ Mock Interview
 
 ### Topics
 
-	- [ ] Array
-	- [ ] LinkedList
-	- [ ]Stack
+	- [ x ] Array
+	- [ ] LinkedList (11)
+	- [ ]Stack ()
 	- [ ]HashMap
 	- [ ]Heap/PQueue
 
@@ -56,4 +56,11 @@ q# | title | difficulty | date | time | attempt#
 11 ｜ container with most water | medium | 01/05 | 20 | 1
 15 | 3 sum | medium | max | 1
 238 | product of array without self | medium | max | 1
+141 | linked list cycle | easy | 02/01 | 0:30  |1
+142 | linked list cycle 2 | medium | 02/01 | max | 1
+83 | remove duplicates from sorted list | easy | 02/02 | 0:40 | 1
+82 | remove duplicates from sorted list 2| medium | 02/03 | max | 1
+2 | add two numbers | medium | 02/02 | max | 1
+
+
 
